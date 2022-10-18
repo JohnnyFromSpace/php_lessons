@@ -1,7 +1,7 @@
 <?php
 class Index {
-  public function(){
-    print_r("hello");
+  public function helloworld(){
+    print_r("hello world");
   }
 
 }
